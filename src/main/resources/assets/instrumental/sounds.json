@@ -1,0 +1,8 @@
+{
+  "test_sound_event": {
+    "subtitle": "sounds.instrumental.test_sound_event",
+    "sounds": [
+      "instrumental:vine_boom"
+    ]
+  }
+}
